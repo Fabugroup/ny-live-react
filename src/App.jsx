@@ -2,7 +2,8 @@ import React from 'react'
 
 function App() {
   return (
-    <div>Demo on Netlify Build Home Page</div>
+    <div>
+      <h1>Demo on Netlify Build Home Page</h1></div>
   )
 }
 
